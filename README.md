@@ -1,6 +1,6 @@
 # CodeAlpha_Responsive_Blog_Website
 Responsive Blog Website Made With The Help of HTML, CSS, JS.
-
+Demo Pictures of the project - 
 
 ![Screenshot (9738)](https://github.com/debjyotidas111/CodeAlpha_Responsive_Blog_Website/assets/86339364/0da4b3bb-c898-4029-a47a-473845ded1df)
 
